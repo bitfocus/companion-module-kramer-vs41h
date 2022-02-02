@@ -1,8 +1,10 @@
 {
 	"name": "kramer-vs41h",
 	"version": "1.0.0",
-	"api_version": "1.0.o",
-	"keywords": [ "Image Processing" ],
+	"api_version": "1.0.0",
+	"keywords": [
+		"Image Processing"
+	],
 	"manufacturer": "Kramer",
 	"product": "VS-41H",
 	"shortname": "kramer-vs41h",
@@ -12,6 +14,13 @@
 		"test": "echo \"Error: no test specified\" && exit 1"
 	},
 	"author": "Steve Therrien <git@stevetherrien.ca>",
-	"homepage": "https://www.kramerav.com/",
-	"license": "MIT"
+	"homepage": "https://github.com/bitfocus/companion-module-kramer-vs41h#readme",
+	"license": "MIT",
+	"bugs": {
+		"url": "https://github.com/bitfocus/companion-module-kramer-vs41h/issues"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/bitfocus/companion-module-kramer-vs41h.git"
+	}
 }
